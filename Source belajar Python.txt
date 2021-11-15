@@ -1,0 +1,71 @@
+PYTHON:
+- tkinter - codemy.com
+- PyQt5 - codemy.com
+- Django - codemy.com
+- Build An API With Python Django - codemy.com
+- How To Use HTML In Your Tkinter App - Python Tkinter GUI Tutorial  - codemy.com
+- Django Bootstrap Theme Installation 
+- Python GUI Tkinter Menu Bar Tutorial Part 17.3 | (Simple,Submenu,Radio,CheckButton,Disable Menu) - supercoder
+- python tkinter - nocragear
+- SQLite Databases With Python - Full Course - free code camp.org
+- 12 Beginner Python Projects - Coding Course - free code camp.org
+- Automate Excel With Python - Python Excel Tutorial (OpenPyXL) -tech with tim https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg
+- How to Convert any Python File to .EXE -> tech with tim https://youtu.be/UZX5kH72Yx4
+- Pythonnaire
+- How install python on windows with gitbash and visual code 
+- Python GUI's with PyQt5 - pytutorials
+- PyQt5 QtDesigner Login and Signup Forms tutorial: for COMPLETE beginners
+- PyQt5 QTableWidget tutorial: Load data, fill tables, format tables [Table Widget]
+- python full course - bro code
+- PyQt5 Tutorial  - tech with tim
+- How to create GUI in Python || PyQt5 -try2catch
+- QtDesigner and PyQt5: The right and wrong way to use them together
+- Python, PySide2 and Qt Designer 
+- Kivy Tutorial #1 - How to Create Mobile Apps With Python - tech with tim
+- Intermediate Python Programming Course - free code camp.org
+- Buat Game Pemula Menggunakan Python | #2 Snake Run - kumpul 4 semut
+- Python Game Programming Tutorial: Space Invaders - tokyoedtech
+- Python tkinter Tutorial: Simple To Do List App - tokyoedtech
+- 5 Games Using Python Turtle (with source code) - programmer buddy
+- Build Python Graphic User Interface (GUI) by Tkinter - data science garage
+- 5 Best Python GUI Libraries [Pros, Cons, and 5 Things to Consider to Choose]
+- 10 Python Shortcuts You Need To Know
+- Python - Splash Screen - Modern Gui [Qt Designer, PySide2/PyQt5] (Time Lapse Video)
+- Object Oriented Programming (OOP) In Python - Beginner Crash Course
+- PyQt5 FULL Modern Gui Tutorial #1 - Welcome Screen [for beginners]
+- Qt Quick Designer
+- Belajar Python OOP - kelas terbuka
+- Object Oriented Programming (OOP) In Python - Beginner Crash Course - python engineer
+- Object Oriented Programming with Python - Full Course for Beginners - freecodecamp
+- Python Microservices Web App (with React, Django, Flask) - Full Course
+- Top 18 Most Useful Python Modules
+- Pygame Tutorial - Creating Space Invaders - tech with tim
+- 7 concepts you should know to get a job as a Django developer - JustDjango
+- Django Beginner | Portfolio Resume Website - dennis ivy
+- Django Tutorial (Create a Blog) - the net ninja
+- Django for absolute beginners - wecodeinpython
+- ToDo App | Part1 | HTML and Bootstrap | Django  - wecodeinpython
+- Python Django and Google APIs - Project Tutorial - freecodecamp
+- Django For Everybody - Full Python University Course - freecodecamp
+- Python Django Course for Beginners 2021 - academind
+- Django Tutorial for Beginners [2021] - programming with mosh
+- Python Backend Web Development Course (with Django) - freecodecamp
+- Python GUI Development With PySimpleGUI -  Real Python
+- Beautiful Soup 4 Tutorial - tech with tim
+- Python Selenium Tutorial - tech with tim
+- Python Website Full Tutorial - Flask, Authentication, Databases & More - tech with tim
+- python django tutorial - tech with tim
+- Flask Tutorial - tech with tim
+- Belajar Web Flask -  Toufan RA 
+- Python Flask - Learning programming
+- Python Flask MongoDB - Complete CRUD in one video - coder page
+- Creating a RESTFul API With Flask [1 of 4] - Get Requests - pretty printed
+- Creating a MongoDB-Backed RESTFul API With Python and Flask - pretty printed
+- Python Tutorial - Python for Beginners [Full Course] - programming with mosh
+- PyGame Tile Based Platformer - coding with russ
+- Learning pygame by making Flappy Bird - Clear code
+- CRUD operation using Python + SQLite
+- pandas tutorial - Corey Schafer 
+- New Features In Python 3.10 You Should Know - python engineer
+- Make a to-do list app using python - python class
+- Most Advance Python Course for Professionals [2021] - extern code
